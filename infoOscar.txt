@@ -1,0 +1,6 @@
+###################INFORMACION PERSONAL##################
+
+Nombres: Oscar Ramirez Joel
+Apellidos: Ramirez Manzano
+Cedula: 1850210004
+
